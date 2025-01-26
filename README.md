@@ -25,7 +25,7 @@ I am passionate about writing clean, maintainable code and delivering high-quali
 
 ---
 
-## 🌐 Web Frameworks & Tools  
+## 🌐 Web Frameworks  
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)  
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23946DB3.svg?style=flat-square&logo=hibernate&logoColor=white)  

@@ -35,7 +35,6 @@ I am passionate about writing clean, maintainable code and delivering high-quali
 - ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 - ![Spring Initializr](https://img.shields.io/badge/Spring%20Initializr-green?style=flat-square&logo=spring&logoColor=white)
-
 - 
 ## What I Do
 Building scalable backend systems, RESTful APIs, and user-friendly web applications.
@@ -74,7 +73,7 @@ Building scalable backend systems, RESTful APIs, and user-friendly web applicati
 
 ---
 
-### 💻 Top Languages
+## 💻 Top Languages
 ![HenryTech12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryTech12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---

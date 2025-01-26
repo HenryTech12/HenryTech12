@@ -66,7 +66,6 @@ Building scalable backend systems, RESTful APIs, and user-friendly web applicati
 
 ## 📫 Let’s Connect!  
 
-🌐 **Portfolio Website:** [Your Portfolio Link]  
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/fakorode-henry-2663422aa)  
 🐦 **Twitter:** [@HenryTech874](https://x.com/henrytech874?t=TGVUa3Xau1KMr4LgrUfh9g&s=09)  
 📧 **Email:** fakorodehenry@gmail.com  

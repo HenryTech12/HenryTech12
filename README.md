@@ -9,30 +9,29 @@ I am passionate about writing clean, maintainable code and delivering high-quali
 
 ## 🛠️ Technical Skills
 
-### **Backend Development**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-%23946DB3.svg?style=flat-square&logo=hibernate&logoColor=white)  
-![RESTful APIs](https://img.shields.io/badge/RESTful-APIs-%230A66C2?style=flat-square)  
+### Backend Development
+- ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white)
+- ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-green?style=flat-square&logo=spring&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-darkgreen?style=flat-square&logo=spring&logoColor=white)
+- ![Hibernate](https://img.shields.io/badge/Hibernate-purple?style=flat-square&logo=hibernate&logoColor=white)
+- ![RESTful APIs](https://img.shields.io/badge/RESTful-APIs-blue?style=flat-square)
 
-### **Frontend Development**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)    
+### Frontend Development
+- ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+- ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-green?style=flat-square&logo=thymeleaf&logoColor=white)
 
-### **Database Expertise**  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)  
+### Database Expertise
+- ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 
----
+### Web Frameworks
+- ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-green?style=flat-square&logo=spring&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-darkgreen?style=flat-square&logo=spring&logoColor=white)
+- ![Hibernate](https://img.shields.io/badge/Hibernate-purple?style=flat-square&logo=hibernate&logoColor=white)
 
-## 🌐 Web Frameworks  
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-%23946DB3.svg?style=flat-square&logo=hibernate&logoColor=white)  
-
----
-
-## 🔧 What I Do
+## What I Do
+Building scalable backend systems, RESTful APIs, and user-friendly web applications.
 
 - **API Development:** Crafting robust and secure APIs to power your applications.  
 - **Backend Architecture Design:** Building scalable and maintainable backend systems.  

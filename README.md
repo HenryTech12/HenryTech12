@@ -1,9 +1,10 @@
-
 ---
 
 👋 Welcome to My GitHub Profile!
 
-🌟 Experienced Java Backend Developer with 3+ years of expertise in building secure, scalable, and efficient systems.
+🌟 About Me
+
+Experienced Java Backend Developer with 3+ years of expertise in building secure, scalable, and efficient systems.
 I am passionate about writing clean, maintainable code and delivering high-quality solutions tailored to users' needs.
 
 
@@ -11,18 +12,31 @@ I am passionate about writing clean, maintainable code and delivering high-quali
 
 🛠️ Technical Skills
 
-Backend Development:
+Backend Development
+
+Java (Spring Boot, Hibernate, RESTful APIs)
+
+Microservices Architecture
+
+API Security (OAuth2, JWT, etc.)
+
+Unit Testing (JUnit, Mockito)
 
 
+Frontend Development
+
+HTML5, CSS3, JavaScript
+
+React.js, Angular
 
 
-Frontend Development:
+Database Expertise
 
+MySQL, PostgreSQL, MongoDB
 
+Database Schema Design and Optimization
 
-
-
-Database Expertise:
+Query Performance Tuning
 
 
 
@@ -69,14 +83,10 @@ Passionate Learner: Constantly staying updated with the latest technologies.
 
 📫 Let’s Connect!
 
-🌐 Portfolio Website
-
-💼 LinkedIn: https://www.linkedin.com/in/fakorode-henry-2663422aa
-
-🐦 Twitter: https://x.com/henrytech874?t=TGVUa3Xau1KMr4LgrUfh9g&s=09
-
+🌐 Portfolio Website: [Your Portfolio Link]
+💼 LinkedIn: LinkedIn Profile
+🐦 Twitter: @HenryTech874
 📧 Email: fakorodehenry@gmail.com
-
 
 
 ---
@@ -88,18 +98,3 @@ If you’re looking for secure, scalable, and high-performing solutions, let’s
 
 
 ---
-
-<!--
-**HenryTech12/HenryTech12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

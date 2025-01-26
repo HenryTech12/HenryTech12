@@ -30,6 +30,13 @@ I am passionate about writing clean, maintainable code and delivering high-quali
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-darkgreen?style=flat-square&logo=spring&logoColor=white)
 - ![Hibernate](https://img.shields.io/badge/Hibernate-purple?style=flat-square&logo=hibernate&logoColor=white)
 
+## Tools
+- ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+- ![Spring Initializr](https://img.shields.io/badge/Spring%20Initializr-green?style=flat-square&logo=spring&logoColor=white)
+
+- 
 ## What I Do
 Building scalable backend systems, RESTful APIs, and user-friendly web applications.
 
@@ -64,6 +71,11 @@ Building scalable backend systems, RESTful APIs, and user-friendly web applicati
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/fakorode-henry-2663422aa)  
 🐦 **Twitter:** [@HenryTech874](https://x.com/henrytech874?t=TGVUa3Xau1KMr4LgrUfh9g&s=09)  
 📧 **Email:** fakorodehenry@gmail.com  
+
+---
+
+### 💻 Top Languages
+![HenryTech12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryTech12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 

@@ -7,7 +7,7 @@ I am passionate about writing clean, maintainable code and delivering high-quali
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills  
 
 ### Backend Development
 - ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white)

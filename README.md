@@ -1,84 +1,76 @@
-# 👋 Welcome to My GitHub Profile!
+# Hi there 👋  
 
-## 🌟 About Me  
-Experienced **Java Backend Developer** with **5 years** of expertise in building secure, scalable, and efficient systems.  
-I am passionate about writing clean, maintainable code and delivering high-quality solutions tailored to users' needs.  
+## Hey there, I'm Henry 👨‍💻  
 
----
-
-## 🛠️ Technical Skills  
-
-### Backend Development
-- ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white)
-- ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-green?style=flat-square&logo=spring&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-darkgreen?style=flat-square&logo=spring&logoColor=white)
-- ![Hibernate](https://img.shields.io/badge/Hibernate-purple?style=flat-square&logo=hibernate&logoColor=white)
-- ![RESTful APIs](https://img.shields.io/badge/RESTful-APIs-blue?style=flat-square)
-
-### Frontend Development
-- ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-- ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-green?style=flat-square&logo=thymeleaf&logoColor=white)
-
-### Database Expertise
-- ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-
-### Web Frameworks
-- ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-green?style=flat-square&logo=spring&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-darkgreen?style=flat-square&logo=spring&logoColor=white)
-- ![Hibernate](https://img.shields.io/badge/Hibernate-purple?style=flat-square&logo=hibernate&logoColor=white)
-
-## Tools
-- ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-- ![Spring Initializr](https://img.shields.io/badge/Spring%20Initializr-green?style=flat-square&logo=spring&logoColor=white)
-- 
-## What I Do
-Building scalable backend systems, RESTful APIs, and user-friendly web applications.
-
-- **API Development:** Crafting robust and secure APIs to power your applications.  
-- **Backend Architecture Design:** Building scalable and maintainable backend systems.  
-- **Database Optimization:** Improving database performance for efficient data handling.  
-- **Frontend-Backend Integration:** Creating seamless connections between user interfaces and backend systems.  
-- **Bug Fixes & Performance Enhancements:** Identifying and resolving bottlenecks to improve application performance.  
+**Backend Engineer | Embedded Systems Builder | Problem Solver ⚡**  
+Turning ideas into **scalable backend systems** and **interactive hardware projects** with Java & Arduino.
 
 ---
 
-## 💼 Portfolio Highlights  
+## 🧠 About Me  
 
-✨ Delivered high-performance RESTful APIs for enterprise applications.  
-✨ Designed and optimized database schemas for efficient data management.  
-✨ Created responsive and user-friendly web applications using modern technologies.  
-
----
-
-## 💡 Why Choose Me?  
-
-- **Detail-Oriented:** Committed to writing clean, maintainable, and efficient code.  
-- **Problem Solver:** Skilled in diagnosing and resolving complex system issues.  
-- **Collaborative:** I thrive in teamwork and communication to ensure project success.  
-- **Passionate Learner:** Constantly staying updated with the latest technologies.  
+🎓 Electrical & Electronics Engineering student at UNILAG  
+💻 Passionate about **backend engineering, system design, and real-world applications**  
+⚙️ Skilled in **Java, Spring Boot, and Microservices Architecture**  
+🔌 I build **embedded systems projects** (Arduino, IoT concepts)  
+🚀 Exploring **distributed systems, cloud engineering, and backend optimization**  
+🤝 Open to collaborations on **backend, IoT, and impactful engineering projects**  
+📫 Reach me at: fakorodehenry@gmail.com  
 
 ---
 
-## 📫 Let’s Connect!  
+## 💻 Tech Stack  
 
-💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/fakorode-henry-2663422aa)  
-🐦 **Twitter:** [@HenryTech874](https://x.com/henrytech874?t=TGVUa3Xau1KMr4LgrUfh9g&s=09)  
-📧 **Email:** fakorodehenry@gmail.com  
-
----
-
-## 💻 Top Languages
-![HenryTech12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryTech12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,maven,git,github,docker,c/c++" />
+</p>
 
 ---
 
-## 🚀 Let’s Build Something Amazing Together!  
+## 📊 GitHub Stats  
 
-If you’re looking for secure, scalable, and high-performing solutions, let’s collaborate to make your ideas a reality.  
-⭐ #Java #SpringBoot #BackendDev  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HenryTech12&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</p>
 
 ---
+
+## 🔥 Contribution Streak  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenryTech12&theme=vue-dark&hide_border=true" />
+</p>
+
+---
+
+## 📂 Featured Projects  
+
+| Project | Description | Stack |
+|--------|------------|-------|
+| 🔐 **CipherVault** | Arduino-powered random PIN generator & verification system with keypad input, LCD feedback, and LED/buzzer alerts for secure access control. | Arduino (C++) |
+| ⚡ **UltraShort** | Enterprise-grade URL shortener with Redis caching, rate limiting, and Resilience4j circuit breakers for high availability and low latency. | Java, Spring Boot, PostgreSQL, Redis |
+| 📋 **Job Tracker** | Distributed job tracking system built with microservices (Job, User, Notification services) and Apache Kafka for event-driven communication, enabling scalable, fault-tolerant, and real-time processing. | Java, Spring Boot, PostgreSQL, Apache Kafka |
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fakorode-henry"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:fakorodehenry@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/HenryTech12"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fakorode-henry&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ Fun Fact  
+
+> My idea of taking a break is building Arduino projects 😄  

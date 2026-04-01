@@ -66,7 +66,7 @@ Turning ideas into **scalable backend systems** and **interactive hardware proje
 ## 👀 Profile Views  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fakorode-henry&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=HenryTech12&color=blue&style=for-the-badge" />
 </p>
 
 ---

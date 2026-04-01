@@ -1,9 +1,13 @@
+<div align="center">
+
 # Hi there 👋  
 
 ## Hey there, I'm Henry 👨‍💻  
 
 **Backend Engineer | Embedded Systems Builder | Problem Solver ⚡**  
 Turning ideas into **scalable backend systems** and **interactive hardware projects** with Java & Arduino.
+
+</div>
 
 ---
 
@@ -21,25 +25,25 @@ Turning ideas into **scalable backend systems** and **interactive hardware proje
 
 ## 💻 Tech Stack  
 
-<p>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,maven,git,github,docker,c/c++" />
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HenryTech12&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-</p>
+</div>
 
 ---
 
 ## 🔥 Contribution Streak  
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenryTech12&theme=vue-dark&hide_border=true" />
-</p>
+</div>
 
 ---
 
@@ -55,19 +59,19 @@ Turning ideas into **scalable backend systems** and **interactive hardware proje
 
 ## 🌐 Connect With Me  
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/fakorode-henry"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:fakorodehenry@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/HenryTech12"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-</p>
+</div>
 
 ---
 
 ## 👀 Profile Views  
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=HenryTech12&color=blue&style=for-the-badge" />
-</p>
+</div>
 
 ---
 

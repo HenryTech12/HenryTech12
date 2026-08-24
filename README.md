@@ -10,111 +10,55 @@
   <a href="https://github.com/HenryTech12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
+<br>
 
-### 🧠 About Me
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F80ED,100:6DB33F&height=80&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=65&descSize=16" width="100%"/>
 
 - 🎓 Electrical & Electronics Engineering student at the University of Lagos (UNILAG)
 - 🔧 Backend engineer focused on **Java, Spring Boot, and event-driven systems** with Apache Kafka
 - 🏗️ Building distributed, microservices-based systems — currently exploring cloud deployment and system design at scale
-- 🏆 7× Hackathon Winner/Runner-Up, incl. 1st Runner-Up at the DSN × Bluechip Technologies AI Summit Hackathon (595 teams, 1,220+ participants)
+- 🏆 **7× Hackathon Winner/Runner-Up**, incl. 1st Runner-Up at the DSN × Bluechip Technologies AI Summit Hackathon (595 teams, 1,220+ participants)
 - 🤝 Open to collaborating on backend, distributed systems, and high-impact engineering projects
-- 📫 Reach me at **fakorodehenry@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-
-
-**Frameworks & Distributed Systems**
-
-
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-
-
-
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-
-
-
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
-
-
-
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-
-
-**Databases & Caching**
-
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-
-
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
-
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-
-
-**Tools & Cloud**
-
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
-
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-
-
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-
-
----
-
-### 📊 GitHub Metrics & Analytics
+- 📫 Reach me at **[fakorodehenry@gmail.com](mailto:fakorodehenry@gmail.com)**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F80ED,100:6DB33F&height=80&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<h3>💻 Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<h3>🧩 Frameworks & Distributed Systems</h3>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
+
+<h3>🗄️ Databases & Caching</h3>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+<h3>☁️ Tools & Cloud</h3>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F80ED,100:6DB33F&height=80&section=header&text=GitHub%20Metrics&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HenryTech12&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -125,19 +69,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenryTech12&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
 
-### 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F80ED,100:6DB33F&height=80&section=header&text=Featured%20Projects&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 | Project | Description | Stack |
 |---|---|---|
 | **Job Application Tracker** | Event-driven microservices system (Job, User, Notification) using Apache Kafka | Java, Spring Boot, PostgreSQL, Kafka |
 | **XO-Clash** | Real-time multiplayer backend with sub-second sync for 20+ concurrent users | Spring Boot, WebSockets, RabbitMQ, Redis |
 | **EliteCoach** | AI coaching platform — Kafka-connected course/notification/AI pipeline | Java, Spring Boot, Kafka |
+| **WhatsApp Clone** | AI-integrated real-time chat app with cross-language messaging | Java, Spring Boot, Google Gemini AI, Docker |
+| **ChatApp** | High-concurrency console chat server, 50+ simultaneous client connections | Java, Socket Programming, Multi-threading |
 
----
+<br>
 
-### 🤝 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F80ED,100:6DB33F&height=80&section=header&text=Connect%20With%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fakorode-henry"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
